@@ -1,0 +1,43 @@
+﻿question,correct_answer,Ten_Qs.thisRepN,Ten_Qs.thisTrialN,Ten_Qs.thisN,Ten_Qs.thisIndex,thisRow.t,notes,Open_screen.started,OpenMessage.started,Welcome_key.started,Open_screen.stopped,Welcome_key.keys,Welcome_key.rt,Welcome_key.duration,Questions.started,textQuestions.started,key_resp.started,Questions.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,Goodbye_screen.started,Goodbye.started,Goodbye_message.started,Goodbye_screen.stopped,Goodbye_message.keys,Goodbye_message.rt,Goodbye_message.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,0.013309333939105272,0.02341791696380824,0.02341791696380824,0.7692121670115739,space,0.7040042909793556,None,,,,,,,,,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"Which object name does not adhere to good style in R?
+A. my_function
+B. myFunction
+C.  My_Function",a,0,0,0,5,0.8125153749715537,,,,,,,,,0.7827849589521065,0.8125153749715537,0.8125153749715537,2.507619792013429,c,0,1.6913466249825433,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"Which package in R contains functions that check for style in your code?
+A. tidyr
+B. styler
+C. dplyr",b,0,1,1,4,2.529518499970436,,,,,,,,,2.5087867500260472,2.529518499970436,2.529518499970436,3.8124433750053868,b,1,1.2792405830696225,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"What is the correct way to install the package dplyr in R?
+A. install.packages(dplyr)
+B. install.packages("dplyr")
+C. install.packages ("dplyr")",b,0,2,2,7,3.82837733393535,,,,,,,,,3.8127837090287358,3.82837733393535,3.82837733393535,4.998393249930814,b,1,1.1686634169891477,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"What is the limit of characters per line in R according to tidyverse style guide?
+A. 100
+B. 90
+C. 80",c,0,3,3,3,5.0356348749483,,,,,,,,,4.99929687497206,5.0356348749483,5.0356348749483,5.964698416995816,c,1,0.9232892920263112,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"Which function creates a scatter plot of given data?
+A. geom_point()
+B. geom_scatter()
+C. geom_plot",a,0,4,4,1,5.984385499963537,,,,,,,,,5.965509708970785,5.984385499963537,5.984385499963537,7.20776699995622,a,1,1.2200274999486282,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"What is the function in r that checks whether given a set of logical vectors, at least of one of the values is true? 
+A. any()
+B. all()
+C. sum()",a,0,5,5,0,7.232160083949566,,,,,,,,,7.2085616670083255,7.232160083949566,7.232160083949566,8.457935250014998,b,0,1.2161795831052586,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"Which is the correct function that removes all objects from you R environment?
+A. rm(list=ls())
+B. rm.all()
+C. na.rm(list=ls())",a,0,6,6,6,8.479876416968182,,,,,,,,,8.45873491698876,8.479876416968182,8.479876416968182,9.423887791926973,a,1,0.9368475410155952,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"Which type of file is best to save good quality plots in R?
+A. .png
+B. .jpeg
+C. .GIF",b,0,7,7,2,9.446825166931376,,,,,,,,,9.42473691701889,9.446825166931376,9.446825166931376,10.69763674994465,b,1,1.2453183749457821,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"Which function creates an error message in R?
+A. stop()
+B. warning()
+C. return()",a,0,8,8,8,10.71708370896522,,,,,,,,,10.698438375024125,10.71708370896522,10.71708370896522,11.630995834013447,a,1,0.9069018330192193,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+"Which function returns the maximum value of a vector?
+A. which.max()
+B. max()
+C. pmax()",a,0,9,9,9,11.650804999982938,,,,,,,,,11.631797667010687,11.650804999982938,11.650804999982938,12.514877083944157,b,0,0.8603455419652164,None,,,,,,,,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,
+,,,,,,,,,,,,,,,,,,,,,,,12.515488249948248,12.5272063750308,12.5272063750308,13.114074209006503,space,0.5842703339876607,None,Data_10,001,2024-02-01_16h32.41.648,First_exp,2023.2.3,120.30491278431738,2024-02-01 16h32.49.792369 +0100,

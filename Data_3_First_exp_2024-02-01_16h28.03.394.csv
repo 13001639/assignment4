@@ -1,0 +1,43 @@
+﻿question,correct_answer,Ten_Qs.thisRepN,Ten_Qs.thisTrialN,Ten_Qs.thisN,Ten_Qs.thisIndex,thisRow.t,notes,Open_screen.started,OpenMessage.started,Welcome_key.started,Open_screen.stopped,Welcome_key.keys,Welcome_key.rt,Welcome_key.duration,Questions.started,textQuestions.started,key_resp.started,Questions.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,Goodbye_screen.started,Goodbye.started,Goodbye_message.started,Goodbye_screen.stopped,Goodbye_message.keys,Goodbye_message.rt,Goodbye_message.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,0.011874291929416358,0.021472333930432796,0.021472333930432796,1.8941221249988303,space,1.8258129589958116,None,,,,,,,,,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"What is the limit of characters per line in R according to tidyverse style guide?
+A. 100
+B. 90
+C. 80",c,0,0,0,3,1.9370298750000075,,,,,,,,,1.9083616249263287,1.9370298750000075,1.9370298750000075,3.1772363749332726,c,1,1.2344099580077454,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"Which object name does not adhere to good style in R?
+A. my_function
+B. myFunction
+C.  My_Function",a,0,1,1,5,3.2010698339436203,,,,,,,,,3.1782454589847475,3.2010698339436203,3.2010698339436203,6.393905499950051,c,0,3.1856819581007585,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"Which package in R contains functions that check for style in your code?
+A. tidyr
+B. styler
+C. dplyr",b,0,2,2,4,6.431463374989107,,,,,,,,,6.39476029202342,6.431463374989107,6.431463374989107,7.887169666937552,b,1,1.4426572499796748,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"Which function returns the maximum value of a vector?
+A. which.max()
+B. max()
+C. pmax()",a,0,3,3,9,7.90966516698245,,,,,,,,,7.887860708986409,7.90966516698245,7.90966516698245,10.470218042028137,b,0,2.5563762499950826,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"Which function creates a scatter plot of given data?
+A. geom_point()
+B. geom_scatter()
+C. geom_plot",a,0,4,4,1,10.491214000037871,,,,,,,,,10.471078292001039,10.491214000037871,10.491214000037871,11.67002037493512,a,1,1.171751125017181,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"Which is the correct function that removes all objects from you R environment?
+A. rm(list=ls())
+B. rm.all()
+C. na.rm(list=ls())",a,0,5,5,6,11.693126166937873,,,,,,,,,11.670865959022194,11.693126166937873,11.693126166937873,13.898365291999653,a,1,2.1930939580779523,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"Which function creates an error message in R?
+A. stop()
+B. warning()
+C. return()",a,0,6,6,8,13.915232458966784,,,,,,,,,13.899086209014058,13.915232458966784,13.915232458966784,14.936245708959177,a,1,1.0160134169273078,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"What is the correct way to install the package dplyr in R?
+A. install.packages(dplyr)
+B. install.packages("dplyr")
+C. install.packages ("dplyr")",b,0,7,7,7,14.959146916982718,,,,,,,,,14.937050999957137,14.959146916982718,14.959146916982718,16.78725716692861,b,1,1.8210580419981852,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"What is the function in r that checks whether given a set of logical vectors, at least of one of the values is true? 
+A. any()
+B. all()
+C. sum()",a,0,8,8,0,16.810224874992855,,,,,,,,,16.788059624959715,16.810224874992855,16.810224874992855,18.89286258397624,a,1,2.077171124983579,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+"Which type of file is best to save good quality plots in R?
+A. .png
+B. .jpeg
+C. .GIF",b,0,9,9,2,18.916162541951053,,,,,,,,,18.8936801670352,18.916162541951053,18.916162541951053,22.120034500025213,b,1,3.196020417031832,None,,,,,,,,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,
+,,,,,,,,,,,,,,,,,,,,,,,22.120684291934595,22.131841375026852,22.131841375026852,23.286812208942138,space,1.1496874160366133,None,Data_3,001,2024-02-01_16h28.03.394,First_exp,2023.2.3,121.35228969045878,2024-02-01 16h28.11.781976 +0100,

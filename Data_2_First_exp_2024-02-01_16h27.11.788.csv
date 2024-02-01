@@ -1,0 +1,43 @@
+﻿question,correct_answer,Ten_Qs.thisRepN,Ten_Qs.thisTrialN,Ten_Qs.thisN,Ten_Qs.thisIndex,thisRow.t,notes,Open_screen.started,OpenMessage.started,Welcome_key.started,Open_screen.stopped,Welcome_key.keys,Welcome_key.rt,Welcome_key.duration,Questions.started,textQuestions.started,key_resp.started,Questions.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,Goodbye_screen.started,Goodbye.started,Goodbye_message.started,Goodbye_screen.stopped,Goodbye_message.keys,Goodbye_message.rt,Goodbye_message.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,0.015496083069592714,0.02663858304731548,0.02663858304731548,0.4705588750075549,space,0.4017491670092568,None,,,,,,,,,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"Which object name does not adhere to good style in R?
+A. my_function
+B. myFunction
+C.  My_Function",a,0,0,0,5,0.5097725410014391,,,,,,,,,0.4825557080330327,0.5097725410014391,0.5097725410014391,6.230295083019882,c,0,5.71780108299572,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"Which is the correct function that removes all objects from you R environment?
+A. rm(list=ls())
+B. rm.all()
+C. na.rm(list=ls())",a,0,1,1,6,6.257415750063956,,,,,,,,,6.231455416069366,6.257415750063956,6.257415750063956,7.639787583029829,a,1,1.3726610409794375,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"Which type of file is best to save good quality plots in R?
+A. .png
+B. .jpeg
+C. .GIF",b,0,2,2,2,7.661935375072062,,,,,,,,,7.640595166012645,7.661935375072062,7.661935375072062,8.980140416068025,b,1,1.3112411660840735,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"Which package in R contains functions that check for style in your code?
+A. tidyr
+B. styler
+C. dplyr",b,0,3,3,4,9.000015957979485,,,,,,,,,8.980966666014865,9.000015957979485,9.000015957979485,10.756146666011773,b,1,1.7460512920515612,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"Which function creates an error message in R?
+A. stop()
+B. warning()
+C. return()",a,0,4,4,8,10.787424957961775,,,,,,,,,10.756808249978349,10.787424957961775,10.787424957961775,12.296786291059107,a,1,1.502327041933313,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"Which function creates a scatter plot of given data?
+A. geom_point()
+B. geom_scatter()
+C. geom_plot",a,0,5,5,1,12.318038166034967,,,,,,,,,12.297598291072063,12.318038166034967,12.318038166034967,15.263939875061624,a,1,2.9386790830176324,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"Which function returns the maximum value of a vector?
+A. which.max()
+B. max()
+C. pmax()",a,0,6,6,9,15.284476457978599,,,,,,,,,15.264733250020072,15.284476457978599,15.284476457978599,18.72256279096473,b,0,3.433299583964981,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"What is the correct way to install the package dplyr in R?
+A. install.packages(dplyr)
+B. install.packages("dplyr")
+C. install.packages ("dplyr")",b,0,7,7,7,18.74597712501418,,,,,,,,,18.723418415989727,18.74597712501418,18.74597712501418,21.0470252080122,b,1,2.2966123750666156,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"What is the limit of characters per line in R according to tidyverse style guide?
+A. 100
+B. 90
+C. 80",c,0,8,8,3,21.06997654098086,,,,,,,,,21.047854457981884,21.06997654098086,21.06997654098086,22.52362433297094,c,1,1.4523197499802336,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+"What is the function in r that checks whether given a set of logical vectors, at least of one of the values is true? 
+A. any()
+B. all()
+C. sum()",a,0,9,9,0,22.547681708005257,,,,,,,,,22.524430957972072,22.547681708005257,22.547681708005257,23.856340458034538,a,1,1.3019910829607397,None,,,,,,,,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
+,,,,,,,,,,,,,,,,,,,,,,,23.856961791054346,23.867667290964164,23.867667290964164,25.08972975006327,space,1.2141802500700578,None,Data_2,001,2024-02-01_16h27.11.788,First_exp,2023.2.3,119.52625775746279,2024-02-01 16h27.22.233078 +0100,
